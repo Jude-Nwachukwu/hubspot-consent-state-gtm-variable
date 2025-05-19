@@ -1,0 +1,7 @@
+---
+homepage: https://dumbdata.co/
+documentation: https://github.com/Jude-Nwachukwu/hubspot-consent-state-gtm-variable
+versions:
+  - sha: b7daf357d8bc189e23f8ad8d5395af02d2b55e35
+    changeNotes: Initial release.
+
