@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Hubspot Consent State/Status",
+  "displayName": "DD Hubspot Consent State/Status (Unofficial)",
   "description": "Use with the Hubspot Consent Banner to identify the individual website user\u0027s consent state and configure when tags should execute.",
   "containerContexts": [
     "WEB"
@@ -356,6 +356,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 5/19/2025, 8:50:17 PM
+Created on 5/20/2025, 9:16:56 AM
 
 
