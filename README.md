@@ -1,4 +1,4 @@
-# HubSpot Consent State – GTM Variable Template
+# HubSpot Consent State – GTM Variable Template (Unofficial)
 
 A Google Tag Manager (GTM) Variable Custom Template designed to work with the **HubSpot Consent Banner**. This template helps you identify the consent states of individual users and configure whether certain tags should execute based on their preferences.
 
